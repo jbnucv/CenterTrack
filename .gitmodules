@@ -10,5 +10,5 @@
 
 [submodule "DCN-v2"]
 	path = src/lib/model/networks/DCNv2
-	url = https://github.com/CharlesShang/DCNv2/
+	url = https://github.com/rathaROG/DCNv2_Windows
 	branch = master
